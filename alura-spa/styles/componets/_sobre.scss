@@ -14,7 +14,7 @@
       text-transform: uppercase;
       color: $cor-primaria;
       margin-bottom: 10px;
-      font-size: calc($tamanho-do-texto / 2);
+      font-size: $tamanho-do-texto / 2;
     }
     h4 {
       color: $cor-primaria;

@@ -151,7 +151,7 @@ footer {
   border-top: #897853;
   margin-top: 1rem;
   padding: 1.2rem;
-  background: linear-gradient(to left, #897853, #4E3620, #F8F4E1);
+  background: linear-gradient(to right, #4E3620, #897853, #F8F4E1);
 }
 footer i {
   color: red;
